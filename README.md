@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yousufmahomed
-- 👀 I’m interested in becoming a front-end developer
-- 🌱 I’m currently learning via FCC and the ODIN-project & "Learn enough ... to be dangerous" series
+- 👀 I’m interested in becoming a Salesforce admin & front-end developer
+- 🌱 I’m currently learning via FCC and the ODIN-project & "Learn enough ... to be dangerous" series ; Salesforce on Trailhead and Mike Wheeler Media
 - 💞️ I’m looking to collaborate on any projects involving front end , looking for practice
 - 📫 How to reach me yousufmahomed@gmail.com
 - Recent certifications :-
